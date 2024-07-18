@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Hello world! webhook integrated'
+                echo 'Hello world! webhook integrated new changes'
             }
         }
     }
